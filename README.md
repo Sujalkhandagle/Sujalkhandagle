@@ -69,7 +69,7 @@
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/sujalkhandagle">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
