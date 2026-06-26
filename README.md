@@ -51,7 +51,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sujalkhandagle&theme=algolia&margin-w=15"/>
 </p>
 
 ---
