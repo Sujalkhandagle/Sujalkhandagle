@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sujal Khandagle
 
-### 🚀 Java Full Stack Developer | Web Developer | Problem Solver
+### Java Full Stack Developer Fresher | Web Developer | Problem Solver
 
 I'm a passionate Computer Science student who enjoys building modern web applications and continuously learning new technologies. I love turning ideas into real-world projects and improving my programming skills every day.
 
