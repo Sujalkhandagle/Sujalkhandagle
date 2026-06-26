@@ -29,9 +29,9 @@ I'm a passionate Computer Science student who enjoys building modern web applica
 
 ## 📫 Connect with Me
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Email: your-email@example.com
+- GitHub:https://github.com/Sujalkhandagle/Sujalkhandagle
+- LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sujal-khandagle)
+- Email: sujalkhandagle6@gmail.com
 
 ---
 
